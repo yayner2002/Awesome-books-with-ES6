@@ -10,7 +10,7 @@
 - CSS
 - Javascript
 ## Screenshot
-![home page](/images/appscreenshoot.png.png?raw=true "home screenshot")
+![home page](/images/appscreenshoot.png?raw=true "home screenshot")
 ## Live Demo
 
 [Live Demo Link](https://yayner2002.github.io/Awesome-books-with-ES6/)
