@@ -9,7 +9,8 @@
 - HTML
 - CSS
 - Javascript
-
+## Screenshot
+![home page](/images/appscreenshoot.png.png?raw=true "home screenshot")
 ## Live Demo
 
 [Live Demo Link](https://yayner2002.github.io/Awesome-books-with-ES6/)
@@ -29,8 +30,8 @@ Run the live server or simply open index.html with your browser.
 👤 **Author1**
 
 - GitHub: [@yayner2002](https://github.com/yayner2002)
-- Twitter: [@wediagazian](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/yaynshet-medhin)
+- Twitter: [@wediagazian](https://twitter.com/wediagazian)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/yaynshet-medhin//yaynshet-medhin)
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
