@@ -1,5 +1,8 @@
 {
   "name": "awesome-books-with-es6",
+  "jest": {
+    "verbose": true
+  },
   "version": "1.0.0",
   "description": "> Awesome books website that Uses ES6 modules to write modular JavaScript along with NPM  as software packages system.",
   "main": "index.js",
@@ -22,7 +25,7 @@
     "eslint": "^7.32.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.26.0",
-    "hint": "^6.1.11",
+    "hint": "^6.2.0",
     "stylelint": "^13.13.1",
     "stylelint-config-standard": "^21.0.0",
     "stylelint-csstree-validator": "^1.9.0",

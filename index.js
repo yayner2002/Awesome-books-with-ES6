@@ -1,11 +1,11 @@
-import { displayDateTime } from './modules/time.js';
+import { displayDateTime } from './modules/time';
 import {
   addLinkFunc, contactLinkFunc, listLinkFunc,
-} from './modules/dataDisplayBlockOrHidden.js';
-import Books from './modules/books.js';
-import { booksFromLocalStorage } from './modules/localStorage.js';
-import { displayBooks } from './modules/displayBook.js';
-import { form, getDataFromInputFields } from './modules/addBook.js';
+} from './modules/dataDisplayBlockOrHidden';
+import Books from './modules/books';
+import { booksFromLocalStorage } from './modules/localStorage';
+import { displayBooks } from './modules/displayBook';
+import { form, getDataFromInputFields } from './modules/addBook';
 
 window.addEventListener('load', () => setInterval(displayDateTime, 1000));
 addLinkFunc(); contactLinkFunc(); listLinkFunc();

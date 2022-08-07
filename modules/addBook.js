@@ -1,6 +1,6 @@
 /* eslint-disable import/no-unresolved */
-import Books from './books.js';
-import { displayBooks } from './displayBook.js';
+import Books from './books';
+import { displayBooks } from './displayBook';
 
 export const titleEl = document.getElementById('titleEl');
 export const authorEl = document.getElementById('authorEl');
