@@ -1,6 +1,7 @@
+/* eslint-disable import/extensions */
 /* eslint-disable import/prefer-default-export */
 /* eslint-disable import/no-unresolved */
-import Books from './books';
+import Books from './books.js';
 
 const bookList = document.querySelector('.book-list');
 
